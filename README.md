@@ -26,7 +26,7 @@ Clasificamos nuestras alertas según la naturaleza del riesgo y la audiencia obj
 
 | ID | Fecha | Título del Aviso | Impacto | Categoría |
 | :--- | :--- | :--- | :--- | :--- |
-| **SSA-2026-001** | 2026-02-02 | [Phishing dirigido a entornos legales via Microsoft 365](./advisories/SSA-2026-001.md) | 🔴 Crítico | Identidad |
+| **SSA-2026-001** | 2026-02-02 | [Campañas de Phishing AiTM y Secuestro de Sesión](./advisories/SSA-2026-001.md) | 🔴 Crítico | Identidad |
 
 ---
 
