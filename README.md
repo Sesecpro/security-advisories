@@ -26,8 +26,8 @@ Clasificamos nuestras alertas según la naturaleza del riesgo y la audiencia obj
 
 | ID | Fecha | Título del Aviso | Impacto | Categoría |
 | :--- | :--- | :--- | :--- | :--- |
+| **SSA-2026-002** | 2026-02-12 | [Fuga de Propiedad Intelectual en Shadow AI](./advisories/SSA-2026-002.md) | 🟠 Alta | Gobierno IA |
 | **SSA-2026-001** | 2026-02-02 | [Campañas de Phishing AiTM y Secuestro de Sesión](./advisories/SSA-2026-001.md) | 🔴 Crítico | Identidad |
-
 ---
 
 ## 📡 Cómo consumir esta información
